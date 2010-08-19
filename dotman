@@ -1,0 +1,23 @@
+#!/usr/env python
+'''
+dotman - dot file manager
+Useful for creating, linking and backing up varius config files
+'''
+
+import os
+import sys
+import argparse
+
+# Setup env constants
+CONFIG_HOME_DIR = os.getenv('XDG_CONFIG_HOME')
+HOME_DIR = os.getenv('HOME')
+
+def build_parser():
+    parser = argparse.ArgumentParser(description='dotman - configuration file manager')
+    parser.add_argument
+
+def main():
+    pass
+
+if __name__ == '__main__':
+    main()

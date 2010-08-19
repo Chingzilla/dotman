@@ -1,0 +1,6 @@
+dotman (dot file manager) is a utility used to manage varius application's config files
+
+requires:
+* Linux 
+* python
+* git?
