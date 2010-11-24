@@ -1,0 +1,16 @@
+{
+    "files": {
+        "gitconf": {
+            "org_file": "~/.gitconfig",
+            "bk_file": "git/gitconfig",
+            "bk_method": "link"
+        },
+        "gitignore": {
+            "org_file": "~/.gitignore",
+            "bk_file": "git/gitignore",
+            "bk_method": "link"
+        }
+    },
+    "dirs": {
+    }
+}
